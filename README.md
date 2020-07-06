@@ -1,4 +1,15 @@
-### Hi there 👋
+### It's David!
+*SF Bay Area, he/him*
+
+- 🛠 Working on building features + interfaces at **Abstract**
+- 🌴 Learning 3D modeling and rendering
+- ⏰ Procrastinating on my personal website rebuild
+
+#### Away from the screen, I'm:
+- 📖 Reading **Dune** by Frank Herbert
+- 🎸 Listening to **Nicki Minaj** and **Joanna Newsom**
+- 🎹 Practicing **Estampes** by C. Debussy
+- 🛕 Working on arts and crafts - pottery, neon light bending, sewing, ...
 
 <!--
 **ossim/ossim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
